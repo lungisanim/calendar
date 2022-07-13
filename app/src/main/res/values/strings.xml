@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lungisani</string>
+    <string name="to_do_message">Descibe Item</string>
+    <string name="button_insert">Insert Item</string>
+</resources>
